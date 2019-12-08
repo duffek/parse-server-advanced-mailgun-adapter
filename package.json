@@ -1,0 +1,27 @@
+{
+  "name": "parse-server-advanced-mailgun-adapter",
+  "version": "1.0.0",
+  "description": "An advanced mailgun adapter for parse sever with templating options.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duffek/parse-server-advanced-mailgun-adapter.git"
+  },
+  "keywords": [
+    "parse",
+    "parse-server",
+    "email-adapter"
+  ],
+  "author": "David Nelson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/duffek/parse-server-advanced-mailgun-adapter/issues"
+  },
+  "homepage": "https://github.com/duffek/parse-server-advanced-mailgun-adapter#readme",
+  "dependencies": {
+    "mailgun-js": "^0.22.0"
+  }
+}
