@@ -1,6 +1,6 @@
 {
   "name": "parse-server-advanced-mailgun-adapter",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "An advanced mailgun adapter for parse sever with templating options.",
   "main": "index.js",
   "scripts": {
